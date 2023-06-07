@@ -1,0 +1,8 @@
+bmp180:
+  ros__parameters:
+    ros_topic_altitude: "/bmp180/altitude"
+    ros_topic_temperature: "/bmp180/temperature"
+    ros_topic_pressure: "/bmp180/pressure"
+    data_query_frequency: 20
+
+
